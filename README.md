@@ -1,35 +1,4 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@KelzangUD 
-KelzangUD
-/
-Simple-Profile
-1
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Simple-Profile/simpleProfile.html
-@KelzangUD
-KelzangUD added simple profile html file
-Latest commit b11f9ac 4 hours ago
- History
- 1 contributor
-116 lines (116 sloc)  4.01 KB
-  
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
